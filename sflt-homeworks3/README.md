@@ -43,7 +43,7 @@ rsync -avxc --exclude=".*" --checksum /home/kirill /tmp/backup
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Отработка РК](https://github.com/wintercomesX/sflt-homework3/blob/main/sflt-homework3/img/png1.PNG)`
+![Отработка РК](https://github.com/wintercomesX/sflt-homework3/blob/main/sflt-homeworks3/img/png1.PNG)`
 
 ---
 
@@ -78,9 +78,9 @@ fi
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Crontab](https://github.com/wintercomesX/sflt-homework3/blob/main/sflt-homework3/img/png2.PNG)`
+![Crontab](https://github.com/wintercomesX/sflt-homework3/blob/main/sflt-homeworks3/img/png2.PNG)`
 
-![Запись в логе](https://github.com/wintercomesX/sflt-homework3/blob/main/sflt-homework3/img/png3.PNG)`
+![Запись в логе](https://github.com/wintercomesX/sflt-homework3/blob/main/sflt-homeworks3/img/png3.PNG)`
 
 
 ---
